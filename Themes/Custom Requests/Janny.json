@@ -994,7 +994,8 @@
         "CHECKPOINT_PERSONA_NINE_GRADIENT_END": "#000000",
         "CHECKPOINT_PERSONA_NINE_BACKGROUND_OVERLAY": "#000000",
         "BG_GRADIENT_UNDER_THE_SEA_1": "#000000",
-        "BG_GRADIENT_UNDER_THE_SEA_3": "#000000"
+        "BG_GRADIENT_UNDER_THE_SEA_3": "#000000",
+        "YELLOW_300": "#FFFFFF"
     },
     "fonts": {
         "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
