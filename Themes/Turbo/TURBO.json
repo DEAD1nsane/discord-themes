@@ -420,18 +420,6 @@
         ],
         "SLIDER_TRACK_BACKGROUND": [
             "#2A2A2A"
-        ],
-        "STATUS_WARNING": [
-            "#FFFFFF"
-        ],
-        "STATUS_WARNING_BACKGROUND": [
-            "#FFFFFF"
-        ],
-        "BORDER_FEEDBACK_WARNING": [
-            "#FFFFFF"
-        ],
-        "ICON_FEEDBACK_WARNING": [
-            "#FFFFFF"
         ]
     },
     "rawColors": {
@@ -1014,7 +1002,18 @@
         "CHECKPOINT_PERSONA_NINE_GRADIENT_END": "#000000",
         "CHECKPOINT_PERSONA_NINE_BACKGROUND_OVERLAY": "#000000",
         "BG_GRADIENT_UNDER_THE_SEA_1": "#000000",
-        "BG_GRADIENT_UNDER_THE_SEA_3": "#000000"
+        "BG_GRADIENT_UNDER_THE_SEA_3": "#000000",
+        "YELLOW_300": "#FFFFFF",
+        "YELLOW_330": "#FFFFFF",
+        "YELLOW_345": "#FFFFFF",
+        "YELLOW_360": "#FFFFFF",
+        "YELLOW_400": "#FFFFFF",
+        "YELLOW_NEW_22": "#FFFFFF",
+        "YELLOW_NEW_38": "#FFFFFF",
+        "YELLOW_NEW_45": "#FFFFFF",
+        "YELLOW_NEW_53": "#FFFFFF",
+        "YELLOW_NEW_59": "#FFFFFF",
+        "YELLOW_NEW_72": "#FFFFFF"
     },
     "fonts": {
         "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
