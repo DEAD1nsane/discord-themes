@@ -413,6 +413,12 @@
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "#000000"
+        ],
+        "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
+            "#0C84E31F"
+        ],
+        "MESSAGE_HIGHLIGHT_BACKGROUND_HOVER": [
+            "#0C84E31F"
         ]
     },
     "rawColors": {

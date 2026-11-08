@@ -419,6 +419,12 @@
         ],
         "SLIDER_TRACK_BACKGROUND": [
             "#2A2A2A"
+        ],
+        "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
+            "#EF25381F"
+        ],
+        "MESSAGE_HIGHLIGHT_BACKGROUND_HOVER": [
+            "#EF25381F"
         ]
     },
     "rawColors": {
